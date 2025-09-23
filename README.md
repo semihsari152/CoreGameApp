@@ -1,11 +1,14 @@
-🎮 CoreGame – Gaming Community Platform
+# 🎮 CoreGame – Gaming Community Platform
 
-CoreGame, oyunseverler için geliştirilmiş kapsamlı bir gaming community platformudur.
+**CoreGame**, oyunseverler için geliştirilmiş kapsamlı bir gaming community platformudur.  
 Kullanıcılar oyunları keşfedebilir, yorum yapabilir, forumlarda tartışabilir, rehberler hazırlayabilir ve toplulukla etkileşime girebilir.
 
-🚀 Proje Kapsamı
+---
 
-Core Özellikler
+## 🚀 Proje Kapsamı
+
+### Core Özellikler
+```bash
 ├── Kullanıcı Yönetimi
 │   ├── Kayıt / Giriş Sistemi ✅
 │   ├── Profil Yönetimi (Avatar, Bio, Sosyal) ✅
@@ -51,8 +54,10 @@ Core Özellikler
     ├── ML Tabanlı Oyun Önerileri
     ├── Progressive Web App (PWA)
     └── Güvenlik (JWT, Rate Limiting, CSRF, XSS)
+```
 
 🏗️ Solution Mimarisi
+```bash
 
 CoreGameApp/
 ├── AdminLayer/
@@ -99,10 +104,11 @@ CoreGameApp/
 │   ├── Hubs/
 │   ├── Properties/
 │   └── Services/
-└──
+```
 
 ⚙️ Kullanılan Teknolojiler
 
+```bash
 Backend
 ├── .NET 9 (ASP.NET Core)
 ├── Entity Framework Core (SQL Server)
@@ -121,7 +127,7 @@ Diğer
 ├── Docker & Docker Compose
 ├── SignalR (Real-time)
 └── Elasticsearch (Advanced Search)
-
+```
 
 🎯 CoreGame’in amacı;
 
