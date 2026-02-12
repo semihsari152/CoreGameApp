@@ -140,8 +140,22 @@ Modern yazılım mimarisi, temiz kod ve ölçeklenebilir yapı ile sektörel bir
 ### 🏠 Home Page
 ![Home Page](screenshots/homepage.png)
 
-### 🎮 Game Detail
+### 🎮 Games Page
 ![Games Page](screenshots/0.png)
 
-### ⚙️ Admin Panel
+### ⚙️ Game Detail Page
 ![Game Detail Page](screenshots/1.png)
+
+### ⚙️ Blog Create Page
+![Blog Create Page](screenshots/5.png)
+
+### ⚙️ Guides Page
+![Guides Page](screenshots/10.png)
+
+### ⚙️ Real-Time Chat Page
+![Real-Time Chat Page](screenshots/12.png)
+
+### ⚙️ Admin Panel-Game Details Page
+![Admin Panel-Game Details Page](screenshots/14.png)
+
+Daha fazla ekran görüntüsü için [`screenshots`](screenshots) klasörünü inceleyebilirsiniz.
