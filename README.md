@@ -145,15 +145,18 @@ Modern yazılım mimarisi, temiz kod ve ölçeklenebilir yapı ile sektörel bir
 ### 📂 Other Pages
 
 <p align="center">
-  <img src="screenshots/0.png" width="30%" />
-  <img src="screenshots/1.png" width="30%" />
-  <img src="screenshots/5.png" width="30%" />
+  <img src="screenshots/0.png" width="45%" />
+  <img src="screenshots/1.png" width="45%" />
 </p>
 
 <p align="center">
-  <img src="screenshots/10.png" width="30%" />
-  <img src="screenshots/12.png" width="30%" />
-  <img src="screenshots/14.png" width="30%" />
+  <img src="screenshots/5.png" width="45%" />
+  <img src="screenshots/10.png" width="45%" />
+</p>
+
+<p align="center">
+  <img src="screenshots/12.png" width="45%" />
+  <img src="screenshots/14.png" width="45%" />
 </p>
 
 ---
