@@ -134,3 +134,14 @@ Diğer
 Oyunseverlere tam teşekküllü bir topluluk platformu sağlamak,
 Kullanıcıların oyun deneyimlerini paylaşabileceği, rehberler hazırlayabileceği bir ortam yaratmak,
 Modern yazılım mimarisi, temiz kod ve ölçeklenebilir yapı ile sektörel bir örnek oluşturmak.
+
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home Page](screenshots/homepage.png)
+
+### 🎮 Game Detail
+![Games Page](screenshots/0.png)
+
+### ⚙️ Admin Panel
+![Game Detail Page](screenshots/1.png)
