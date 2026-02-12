@@ -124,8 +124,6 @@ Frontend
 
 Diğer
 ├── Redis (Cache)
-├── Docker & Docker Compose
-├── SignalR (Real-time)
 └── Elasticsearch (Advanced Search)
 ```
 
