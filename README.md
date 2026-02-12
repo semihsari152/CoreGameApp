@@ -123,7 +123,7 @@ Frontend
 └── Bootstrap
 
 Diğer
-├── Redis (Cache)
+├── SignalR (Real-time)
 └── Elasticsearch (Advanced Search)
 ```
 
