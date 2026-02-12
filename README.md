@@ -140,22 +140,23 @@ Modern yazılım mimarisi, temiz kod ve ölçeklenebilir yapı ile sektörel bir
 ### 🏠 Home Page
 ![Home Page](screenshots/homepage.png)
 
-### 🎮 Games Page
-![Games Page](screenshots/0.png)
+---
 
-### ⚙️ Game Detail Page
-![Game Detail Page](screenshots/1.png)
+### 📂 Other Pages
 
-### ⚙️ Blog Create Page
-![Blog Create Page](screenshots/5.png)
+<p align="center">
+  <img src="screenshots/0.png" width="30%" />
+  <img src="screenshots/1.png" width="30%" />
+  <img src="screenshots/5.png" width="30%" />
+</p>
 
-### ⚙️ Guides Page
-![Guides Page](screenshots/10.png)
+<p align="center">
+  <img src="screenshots/10.png" width="30%" />
+  <img src="screenshots/12.png" width="30%" />
+  <img src="screenshots/14.png" width="30%" />
+</p>
 
-### ⚙️ Real-Time Chat Page
-![Real-Time Chat Page](screenshots/12.png)
-
-### ⚙️ Admin Panel-Game Details Page
-![Admin Panel-Game Details Page](screenshots/14.png)
+---
 
 Daha fazla ekran görüntüsü için [`screenshots`](screenshots) klasörünü inceleyebilirsiniz.
+
